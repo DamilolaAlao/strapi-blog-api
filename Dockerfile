@@ -15,6 +15,9 @@ RUN npm install
 # Bundle app source
 COPY . .
 
+# Build Strapi
+RUN npm run build
+
 ENV PORT 1337
 
 EXPOSE 1337
