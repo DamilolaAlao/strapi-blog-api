@@ -25,7 +25,7 @@
     "seo": {
       "metaTitle": "My personal Strapi blog",
       "metaDescription": "Discover my SEO friendly blog built with Strapi.",
-      "shareImage": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "shareImage": null
     },
     "hero": {
       "title": "My blog"
@@ -35,12 +35,12 @@
     {
       "name": "David Doe",
       "email": "daviddoe@strapi.io",
-      "picture": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "picture": null
     },
     {
       "name": "Sarah Baker",
       "email": "sarahbaker@strapi.io",
-      "picture": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "picture": null
     }
   ],
   "articles": [
@@ -57,7 +57,7 @@
         "id": 1
       },
       "description": "Follow the story of Aaron Swartz, the boy who could change the world",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     },
     {
       "title": "What's inside a Black Hole",
@@ -72,7 +72,7 @@
         "id": 2
       },
       "description": "Maybe the answer is in this article, or not...",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     },
     {
       "title": "This shrimp is awesome",
@@ -87,7 +87,7 @@
         "id": 1
       },
       "description": "Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda. Some species have specialised calcified \"clubs\" that can strike with great power, while others have sharp forelimbs used to capture prey.",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     },
     {
       "title": "A bug is becoming a meme on the internet",
@@ -102,7 +102,7 @@
         "id": 2
       },
       "description": "How a bug on MySQL is becoming a meme on the internet",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     },
     {
       "title": "Beautiful picture",
@@ -117,7 +117,7 @@
         "id": 2
       },
       "description": "Description of a beautiful picture",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     },
     {
       "title": "We love Pizza",
@@ -132,7 +132,7 @@
         "id": 1
       },
       "description": "Pizza is so delicious, specially four cheese pizza",
-      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "image": null
     }
   ],
   "global": {
@@ -140,8 +140,8 @@
     "defaultSeo":{
       "metaTitle":"Page",
       "metaDescription":"A blog made with Strapi",
-      "shareImage":"https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+      "shareImage":null
     },
-    "favicon":"https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
+    "favicon":null
   }
 }
