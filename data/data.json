@@ -25,7 +25,7 @@
     "seo": {
       "metaTitle": "My personal Strapi blog",
       "metaDescription": "Discover my SEO friendly blog built with Strapi.",
-      "shareImage": null
+      "shareImage": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     "hero": {
       "title": "My blog"
