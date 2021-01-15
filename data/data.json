@@ -35,12 +35,12 @@
     {
       "name": "David Doe",
       "email": "daviddoe@strapi.io",
-      "picture": null
+      "picture": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "name": "Sarah Baker",
       "email": "sarahbaker@strapi.io",
-      "picture": null
+      "picture": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     }
   ],
   "articles": [
@@ -57,7 +57,7 @@
         "id": 1
       },
       "description": "Follow the story of Aaron Swartz, the boy who could change the world",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "title": "What's inside a Black Hole",
@@ -72,7 +72,7 @@
         "id": 2
       },
       "description": "Maybe the answer is in this article, or not...",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "title": "This shrimp is awesome",
@@ -87,7 +87,7 @@
         "id": 1
       },
       "description": "Mantis shrimps, or stomatopods, are marine crustaceans of the order Stomatopoda. Some species have specialised calcified \"clubs\" that can strike with great power, while others have sharp forelimbs used to capture prey.",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "title": "A bug is becoming a meme on the internet",
@@ -102,7 +102,7 @@
         "id": 2
       },
       "description": "How a bug on MySQL is becoming a meme on the internet",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "title": "Beautiful picture",
@@ -117,7 +117,7 @@
         "id": 2
       },
       "description": "Description of a beautiful picture",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
     {
       "title": "We love Pizza",
@@ -132,7 +132,7 @@
         "id": 1
       },
       "description": "Pizza is so delicious, specially four cheese pizza",
-      "image": null
+      "image": "https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     }
   ],
   "global": {
@@ -140,8 +140,8 @@
     "defaultSeo":{
       "metaTitle":"Page",
       "metaDescription":"A blog made with Strapi",
-      "shareImage":null
+      "shareImage":"https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
     },
-    "favicon":null
+    "favicon":"https://i.picsum.photos/id/704/300/200.jpg?hmac=ZYJXPEuIsrZWX1oLPN_ut7C6wOCYv4dNn8uEkPhOl3Q"
   }
 }
